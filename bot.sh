@@ -9,3 +9,4 @@ python crypto_run.py -t ETH &
 python crypto_run.py -t YFI &
 python forex_run.py -p GBP/HKD &
 python forex_run.py -p USD/HKD &
+
